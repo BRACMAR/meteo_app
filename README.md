@@ -1,16 +1,5 @@
 # meteo_app
 
-A new Flutter project.
+MATHIEU Julien
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sur l'appli il y a, l'ajout de ville, l'affichage des villes ajoutés avec la température et le temps en temps réel. Et pour finir l'affichage complet de la météo de la villes séléctionner avec la température max, min, la météo de la journée heure par heure, la météo avec la température min et max des 4 jours après la date actuelle et pour finir la chance de pluie, le taux d'humidité, la vitesse du vent et son orientation et pour finir la température ressentie. Et une erreur d'index à l'ouverture du détail de la météo, erreur pas réussie à modifier.
